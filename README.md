@@ -1,3 +1,3 @@
-![Build Status](https://github.com/ENPhoenix/collapse/actions/workflows/deploy.yml/badge.svg)
+![Build Status](https://github.com/ENPhoenix/liker/actions/workflows/deploy.yml/badge.svg)
 
-[GitHub Pages](https://ENPhoenix.github.io/collapse/)
+[GitHub Pages](https://ENPhoenix.github.io/liker/)
